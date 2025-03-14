@@ -14,3 +14,11 @@ I am highly analytical and passionate about solving real-world business challeng
 -  **Machine Learning & AI** 
 -  **Data Privacy & Protection** (GDPR Compliance, Secure Data Handling)
 -  **Business Intelligence & Dashboarding**
+
+# 📊 Data Analytics Projects
+
+## 1. Sports Center Attendance Prediction
+- **Description**: 
+  A data analytics project aimed at predicting factors affecting user attendance levels at a sports center during the first 90 days of membership. The project uses machine learning to identify key variables that influence attendance patterns, providing insights to support strategic decision-making for the center's management.
+- **Key Highlights**
+-  I processed 1.2M+ records using Python and Excel, reducing data inconsistencies by 28.6%. Implementing a hybrid Waterfall & CRISP-DM approach, I achieved 92% prediction accuracy in attendance forecasting. I identified key attendance drivers to aid planning and developed Tableau dashboards, cutting reporting time by 20%. My insights improved operational efficiency by 15% and enhanced member engagement.
