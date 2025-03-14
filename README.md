@@ -50,6 +50,8 @@ Developed and evaluated machine learning models (Logistic Regression, Random For
 Achieved 93% accuracy in hepatitis prediction.  
 Optimized sensitivity and specificity for improved classification and decision-making.
 
+# Applied Analytics Project
+
 ## Winter Rock Operations Analysis
 
 Overview
