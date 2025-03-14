@@ -18,8 +18,6 @@ I am highly analytical and passionate about solving real-world business challeng
 # 📊 Data Analytics Projects
 
 ## 1. Sports Center Attendance Prediction
- **Description**: 
-  A data analytics project aimed at predicting factors affecting user attendance levels at a sports center during the first 90 days of membership. The project uses machine learning to identify key variables that influence attendance patterns, providing insights to support strategic decision-making for the center's management.
 
  **Key Highlights**
   Processed 1.2M+ records using Python and Excel, reducing data inconsistencies by 28.6%.  
@@ -29,8 +27,6 @@ I am highly analytical and passionate about solving real-world business challeng
   Insights improved operational efficiency by 15% and enhanced member engagement.
 
   ## 2. Smart Healthcare for Disease (Stroke) Risk Assessment and Patient Management
- **Description**:  
-  Developed a stroke risk prediction model using Random Forest and XGBoost, analyzing 50,000+ patient records and achieving 92% accuracy. The model generated personalized risk insights to support early intervention, reducing late-stage stroke complications by 20%.
 
 **Key Highlights**:  
 Developed a predictive model using Random Forest and XGBoost, analyzing over 50,000 patient records.  
@@ -38,10 +34,7 @@ Achieved 92% prediction accuracy for stroke risk assessment.
 Generated personalized risk insights to support early intervention and reduce complications.  
 Reduced late-stage stroke complications by 20%.
 
-
 ## 3. NHS Data Visualization
-**Description**:  
-  Developed an interactive Tableau dashboard to visualize inpatient and outpatient trends, regional disparities, and other key health data metrics, reducing manual analysis time by 15% and streamlining decision-making processes.
 
 **Key Highlights**:  
 Created an interactive Tableau dashboard to visualize inpatient and outpatient trends.  
@@ -50,11 +43,14 @@ Reduced manual analysis time by 15% and improved decision-making efficiency.
 
 
 ## 4. Hepatitis Diagnosis Using Statistical & Machine Learning Models
- **Description**:  
-  Analyzed liver function data using descriptive analytics and visualization to identify disease patterns. Developed econometric models and machine learning algorithms (Logistic Regression, Random Forest) for hepatitis prediction, achieving 93% accuracy.
 
 **Key Highlights**:  
 Analyzed liver function data to identify disease patterns and predict hepatitis risk.  
 Developed and evaluated machine learning models (Logistic Regression, Random Forest) for hepatitis diagnosis.  
 Achieved 93% accuracy in hepatitis prediction.  
 Optimized sensitivity and specificity for improved classification and decision-making.
+
+## Tableau Visualizations
+
+Explore my Tableau projects here: https://public.tableau.com/app/profile/shanmugapriya.jayagobi2162/vizzes
+
