@@ -7,10 +7,10 @@ I am highly analytical and passionate about solving real-world business challeng
 
 #  Skills
 
- ✅ **Data Cleaning & Preprocessing** (Pandas, NumPy, Excel, SQL)
- ✅ **Exploratory Data Analysis (EDA)**
- ✅ **Data Visualization** (Tableau, Power BI, Matplotlib, Seaborn, Excel)
- ✅ **Statistical & Predictive Modeling**
- ✅ **Machine Learning & AI** (Regression, Clustering, Time-Series Analysis)
- ✅ **Data Privacy & Protection** (GDPR Compliance, Secure Data Handling)
-✅ **Business Intelligence & Dashboarding**
+-  **Data Cleaning & Preprocessing** (Pandas, NumPy, Excel, SQL)
+-  **Exploratory Data Analysis (EDA)**
+-  **Data Visualization** (Tableau, Power BI, Matplotlib, Seaborn, Excel)
+-  **Statistical & Time-Series Analysis**
+-  **Machine Learning & AI** 
+-  **Data Privacy & Protection** (GDPR Compliance, Secure Data Handling)
+-  **Business Intelligence & Dashboarding**
