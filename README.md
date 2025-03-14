@@ -5,11 +5,12 @@ In this portfolio, you will find projects demonstrating my expertise in data pre
 
 I am highly analytical and passionate about solving real-world business challenges through data-driven strategies. I enjoy working in collaborative environments, where I can leverage my skills to optimize processes and enhance decision-making.
 
-Skills
-✅ Data Cleaning & Preprocessing (Pandas, NumPy, Excel, SQL)
-✅ Exploratory Data Analysis (EDA)
-✅ Data Visualization (Tableau, Power BI, Matplotlib, Seaborn, Excel)
-✅ Statistical & Time-Series Analysis
-✅ Machine Learning & AI
-✅ Data Privacy & Protection (GDPR Compliance, Secure Data Handling)
-✅ Business Intelligence 
+# 📌 Skills
+
+- ✅ **Data Cleaning & Preprocessing** (Pandas, NumPy, Excel, SQL)
+- ✅ **Exploratory Data Analysis (EDA)**
+- ✅ **Data Visualization** (Tableau, Power BI, Matplotlib, Seaborn, Excel)
+- ✅ **Statistical & Predictive Modeling**
+- ✅ **Machine Learning & AI** (Regression, Clustering, Time-Series Analysis)
+- ✅ **Data Privacy & Protection** (GDPR Compliance, Secure Data Handling)
+- ✅ **Business Intelligence & Dashboarding**
