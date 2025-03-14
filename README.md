@@ -116,3 +116,8 @@ This project demonstrates how data analytics can drive operational efficiency. T
 
 Explore my Tableau projects here: https://public.tableau.com/app/profile/shanmugapriya.jayagobi2162/vizzes
 
+# Contact
+
+📧 Email: shanmugapriyaj.02@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/shanmugapriya-j/
+
