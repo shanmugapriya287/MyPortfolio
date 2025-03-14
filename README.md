@@ -4,3 +4,13 @@ I am Shanmugapriya. With a strong foundation in Business Analytics, backed by an
 In this portfolio, you will find projects demonstrating my expertise in data preprocessing, statistical modelling and visualization techniques. Some key highlights include my Sports Center Attendance Prediction project, where I applied machine learning techniques to identify key factors influencing user attendance and my Marketing Analytics project, which provided actionable insights for Hepatitis Diagnosis.
 
 I am highly analytical and passionate about solving real-world business challenges through data-driven strategies. I enjoy working in collaborative environments, where I can leverage my skills to optimize processes and enhance decision-making.
+
+Skills
+
+✅ Data Cleaning & Preprocessing (Pandas, NumPy, Excel, SQL)
+✅ Exploratory Data Analysis (EDA)
+✅ Data Visualization (Tableau, Power BI, Matplotlib, Seaborn, Excel)
+✅ Statistical & Time-Series Analysis
+✅ Machine Learning & AI
+✅ Data Privacy & Protection (GDPR Compliance, Secure Data Handling)
+✅ Business Intelligence 
